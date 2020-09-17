@@ -1,4 +1,4 @@
-var token = "NjY1NTMwMDQ3NTExMTM0MjE5.Xhm9KA.gg9kAACOZaeydYohJPQhPNupm08"
+var token = process.env.BOT_TOKEN
 var prefix = "!"
 
 const Discord = require("discord.js")
