@@ -1,0 +1,17 @@
+{
+  "name": "2elelec",
+  "version": "1.0.0",
+  "description": "Laget for 2ELELEc",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "IDFK"
+  ],
+  "author": "Gard Søreng",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^12.3.1"
+  }
+}
