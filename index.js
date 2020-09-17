@@ -1,4 +1,4 @@
-var token = "NjY1NTMwMDQ3NTExMTM0MjE5.Xhm9KA.xGxoygQLOVRcNKnMX49GX2-eB_E"
+var token = "NjY1NTMwMDQ3NTExMTM0MjE5.Xhm9KA.gg9kAACOZaeydYohJPQhPNupm08"
 var prefix = "!"
 
 const Discord = require("discord.js")
